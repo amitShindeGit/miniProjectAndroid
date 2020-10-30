@@ -13,4 +13,4 @@ It is an app made for **Safety** of Women.
 <li>Amal Pushp</li>
 </ul>
 </br>
-P.S : We are __NOT__ accepting any PRs for now 🚫
+P.S : We are **NOT** accepting any PRs for now 🚫
