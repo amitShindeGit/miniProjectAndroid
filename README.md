@@ -4,7 +4,7 @@ It is an app made for **Safety** of Women.
 </br>
 **WIP**
 
-### Members😎 :-
+### Team😎 :-
 ---
 <ul>
 <li>Amit Shinde</li>
